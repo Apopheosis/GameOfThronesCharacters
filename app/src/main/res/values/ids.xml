@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="culture" type="id" />
+    <item name="born" type="id" />
+    <item name="titles" type="id" />
+    <item name="aliases" type="id" />
+    <item name="playedBy" type="id" />
+</resources>
